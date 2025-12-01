@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "email": "admin@firedesk.com",
+    "password": "Admin@123"
+  },
+  "manager": {
+    "email": "manager@firedesk.com",
+    "password": "Manager@123"
+  },
+  "technician": {
+    "email": "tech@firedesk.com",
+    "password": "Tech@123"
+  }
+}

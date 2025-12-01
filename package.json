@@ -1,0 +1,27 @@
+{
+  "name": "qa-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayn49/QA-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayn49/QA-Testing/issues"
+  },
+  "homepage": "https://github.com/sanjayn49/QA-Testing#readme",
+  "devDependencies": {
+    "canvas": "^3.2.0",
+    "cypress": "^15.7.0",
+    "cypress-file-upload": "^5.0.8",
+    "exceljs": "^4.4.0",
+    "jsqr": "^1.4.0"
+  }
+}
